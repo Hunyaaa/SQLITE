@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\kepekSQL\kepekSQL\bin\Debug\kepekSQL.exe.config
+C:\Users\user\Desktop\kepekSQL\kepekSQL\bin\Debug\kepekSQL.exe
+C:\Users\user\Desktop\kepekSQL\kepekSQL\bin\Debug\kepekSQL.pdb
+C:\Users\user\Desktop\kepekSQL\kepekSQL\obj\Debug\kepekSQL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\kepekSQL\kepekSQL\obj\Debug\kepekSQL.Form1.resources
+C:\Users\user\Desktop\kepekSQL\kepekSQL\obj\Debug\kepekSQL.Properties.Resources.resources
+C:\Users\user\Desktop\kepekSQL\kepekSQL\obj\Debug\kepekSQL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\kepekSQL\kepekSQL\obj\Debug\kepekSQL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kepekSQL\kepekSQL\obj\Debug\kepekSQL.exe
+C:\Users\user\Desktop\kepekSQL\kepekSQL\obj\Debug\kepekSQL.pdb
